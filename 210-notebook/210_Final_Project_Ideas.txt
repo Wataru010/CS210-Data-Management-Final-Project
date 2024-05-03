@@ -1,0 +1,24 @@
+Retro Games
+Experienced Gamers
+1. Top 3 games sold by each publisher
+>(reason: Additional information for experienced players to explore games from different publishers)
+2. Top 10 games sold globally
+>(reason: Additional information for experienced players in case they missed one of best selling games)
+3. Which publisher make the best games in each genre (sold the most game of a genre)
+>(reason: Additional information for experienced players to explore the publisher's game with the best selling of the genre that players interested)
+4. Discover the top old/retro games before year 2010 (top 3 games sold of each genre)
+>(reason: Additional information for Experienced players to choose and enjoy the old games easier)
+5. Current popular platform after year 2010 (based on sales)
+>(reason: General information for experienced players to choose a new platform for relatively new gameplay)
+
+For New Gamers
+1. The Platform that has the most Genre 
+>(reason: Which platform should a new gamer choose to start with and be comprehensive in genres)
+2. The Platform that has the most unique game titles
+>(reason: Additional information about the platform has the most game titles as a spec to consider a platform)
+3. The most popular Genre which means a Genre has the most unique title of games
+>(reason: General information about what genre is popular genre and worth to try)
+4. List of most sold games in each genre
+>(reason: List the most popular game in each genre offer some information for new gamers which game is a good start for a specific genre)
+5. The Publisher that has the most sales across all game titles (with all Publisher's sales)
+>(reason: Help new gamers know which publisher has the best reputation that sales their games the most among other publishers)

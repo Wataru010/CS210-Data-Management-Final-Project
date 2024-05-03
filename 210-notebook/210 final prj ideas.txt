@@ -1,0 +1,12 @@
+﻿-total sales per years for all games 
+- franchise versus non franchise sales 
+-what genre of game is most popular in each region
+-best selling title 
+-most popular franchise 
+-best selling genre 
+-console with most unique titles
+-Which publisher make makes the best games in each genre
+-most popular publisher in each region 
+-which console has most variety available  
+-which console is best for each genre
+-when titles are released on two consoles which one sells more
